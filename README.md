@@ -9,4 +9,5 @@
 - [Data 2020](https://drive.google.com/file/d/1eU_f9006Ol_GqEMcmEll9C0nijM9kge7/view?usp=sharing)
 
 ## Storymap
-- [ArcGIS](https://arcg.is/1PGSbv3)
+- [Updated Storymap](https://arcg.is/1i5L9i)
+- [Original](https://arcg.is/1PGSbv3)
